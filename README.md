@@ -65,6 +65,7 @@ Coaching-MS/
 
 ---
 
+
 ## ⚙️ How to Run
 
 1. Clone the repository:
@@ -95,7 +96,7 @@ http://localhost:8080/CoachingMS
 
 🔗 LinkedIn: Ambadas Ganapa
 
-💻 Portfolio: https://ambadasganapa31.wixsite.com/myportfolio
+💻 Portfolio: https://ambadasganapa.github.io
 
 🏁 Conclusion
 
